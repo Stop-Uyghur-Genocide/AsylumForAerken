@@ -13,7 +13,7 @@ The Chinese communist party is (allegedly) commiting a genocide in Xinjiang agai
 
 Based on the above I am kindly ask your help in order to find Aierken asylum if possible in your country. Please assist me what he can/should he do in order to receive refugee status.
 
-Kind regards,
+Kind regards,  
 [Your Name Here]
 
 References:
