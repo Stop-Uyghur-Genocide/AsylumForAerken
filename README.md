@@ -18,6 +18,10 @@ https://twitter.com/nice1996616/status/1453370387866259463
 **2020-10: Aerken  was arrested in Ukraine** and held in local immigration prison for one year - facing possible deportation to China.   
 https://m-soundofhope-org.translate.goog/post/451468?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=hu&_x_tr_pto=nui
 
+**2020-08: Aerken  was arrested in Slovakia and sent back to Ukraine**
+![Aerken 2020-08](Aerken-202008.jpg)
+https://www.kyivpost.com/ukraine-politics/asylum-seeker-in-ukraine-receives-threats-risks-illegal-deportation-to-china.html
+
 ## Campaigns
 
 Currently an embassy campaign (see [EmbassyCampaign\README.md](EmbassyCampaign\README.md)) is running and a social media campaign (see below)
