@@ -2,6 +2,8 @@ Dear Madam / Sir, embassy!
 
 I am seeking for help on behalf of Aierken Yilisen. He is a 24 year old Kazakh refugee from Xinjiang, currently stuck in Ukraine. He was arrested last year, hold in local immigration prison and faced deportation to China. [1]
 
+![Yilisen_Aerken](Yilisen_Aerken.png)
+
 With the help of China Aid, Safeguard Defenders, local Ukrainian people and many others he gained back his freedom on Oct 27. [2]
 
 Unfortunately today the Ukrainian Immigration Bureau rejected his refugee application thus he couldn't yet reach a safe country. As he says:
@@ -12,7 +14,7 @@ The Chinese communist party is (allegedly) commiting a genocide in Xinjiang agai
 Based on the above I am kindly ask your help in order to find Aierken asylum if possible in your country. Please assist me what he can/should he do in order to receive refugee status.
 
 Kind regards,
-Gyula Csom
+[Your Name Here]
 
 References:
 
