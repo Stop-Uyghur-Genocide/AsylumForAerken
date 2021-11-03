@@ -24,7 +24,7 @@ https://www.kyivpost.com/ukraine-politics/asylum-seeker-in-ukraine-receives-thre
 
 ## Campaigns
 
-Currently an embassy campaign (see [EmbassyCampaign/README.md](EmbassyCampaign/README.md) is running and a social media campaign (see below)
+Currently an embassy campaign (see [EmbassyCampaign/README.md](EmbassyCampaign/README.md)) is running and a social media campaign (see below)
 
 ### Social media campaign
 
