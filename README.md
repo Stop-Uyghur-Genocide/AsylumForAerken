@@ -7,7 +7,7 @@ Seeking asylum for Aerken, a 26 year old ethnic Kazakh refugee from Xinjiang.
 
 In reverse chronological order:
 
-**2021-11-03: An embassy campaign was started** to seek asylum for him: [EmbassyCampaign\README.md](EmbassyCampaign\README.md)
+**2021-11-03: An embassy campaign was started** to seek asylum for him: [EmbassyCampaign/README.md](EmbassyCampaign/README.md)
 
 **2021-11-02: His refugee application was rejected**: "Today Immigration Bureau rejected my refugee application. I couldn’t reach a safe country. I was in doubts. Now I completely gave up the idea of longing for freedom. I will just count days after days."   
 https://twitter.com/nice1996616/status/1455547343693090828[DeniedAsylumRequest](DeniedAsylumRequest.jpg)
@@ -24,7 +24,7 @@ https://www.kyivpost.com/ukraine-politics/asylum-seeker-in-ukraine-receives-thre
 
 ## Campaigns
 
-Currently an embassy campaign (see [EmbassyCampaign\README.md](EmbassyCampaign\README.md)) is running and a social media campaign (see below)
+Currently an embassy campaign (see [EmbassyCampaign/README.md](EmbassyCampaign/README.md) is running and a social media campaign (see below)
 
 ### Social media campaign
 
